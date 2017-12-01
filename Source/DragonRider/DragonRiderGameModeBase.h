@@ -14,7 +14,6 @@ class DRAGONRIDER_API ADragonRiderGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
-	
-	
-	
+public:
+	ADragonRiderGameModeBase();
 };
